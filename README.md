@@ -1,2 +1,1 @@
-# experiments
-# experiments git init
+This is my expetiments with node.js and some random stuff in Binary search. Trying to implement it in JS.
